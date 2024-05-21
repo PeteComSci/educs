@@ -1,0 +1,6 @@
+.wrapper {
+  width: 100%;
+  max-width: 1200px; /* You can increase this value */
+  margin: 0 auto; /* Center the content */
+  padding: 20px; /* Optional padding */
+}
