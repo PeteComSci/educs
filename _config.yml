@@ -1,0 +1,5 @@
+title: EduCS.me
+description: A comprehensive resource hub designed for computer science educators and students.
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
