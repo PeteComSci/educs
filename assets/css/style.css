@@ -4,9 +4,96 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  width: 100%;
-  max-width: 1200px; /* You can increase this value */
-  margin: 0 auto; /* Center the content */
-  padding: 20px; /* Optional padding */
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+@media screen and (max-width: 1060px) {
+    .wrapper {
+        width: auto;
+        margin: 0 10px;
+        padding: 10px;
+    }
+
+    section {
+        max-width: 100%;
+        width: auto;
+        padding: 20px 10px;
+        margin: 100px auto 20px;
+    }
+
+    header, footer {
+        padding: 10px 20px;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    body {
+        word-wrap: break-word;
+    }
+
+    header {
+        padding: 10px 20px;
+        margin: 0;
+    }
+
+    header h1 {
+        font-size: 28px;
+    }
+
+    section {
+        margin-top: 80px;
+        margin-bottom: 0;
+        width: auto;
+        padding: 10px;
+    }
+
+    header ul, header p.view {
+        position: static;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    header {
+        position: relative;
+        padding: 5px 10px;
+        min-height: 0;
+    }
+
+    header h1 {
+        font-size: 24px;
+    }
+
+    section {
+        margin-top: 5px;
+        width: auto;
+        padding: 10px;
+    }
+
+    #banner {
+        display: none;
+    }
+
+    header ul {
+        display: none;
+    }
+}
+
+@media screen and (max-height: 680px) {
+    footer {
+        text-align: center;
+        margin: 20px auto;
+        position: relative;
+        left: auto;
+        bottom: auto;
+        width: auto;
+    }
 }
 
