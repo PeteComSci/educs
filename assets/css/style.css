@@ -3,97 +3,63 @@
 
 @import "{{ site.theme }}";
 
+body {
+    font: 14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #2b2b2b;
+    font-weight: 300;
+    margin: 0px;
+    padding: 0px 20px 20px 20px; /* Adjusted padding */
+    background: url(../images/body-background.png) #eae6d1;
+    max-width: 1200px; /* Added max-width */
+    margin: 0 auto; /* Center the body */
+}
+
 .wrapper {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
+    width: 100%; /* Set width to 100% */
+    max-width: 1200px; /* Add max-width */
+    margin: 0 auto; /* Center the wrapper */
+    position: relative;
+    padding: 20px; /* Add padding for spacing */
 }
 
 section {
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 30px;
+    width: 100%; /* Set width to 100% */
+    max-width: 800px; /* Set a max-width for the section */
+    padding: 30px 30px 50px 30px;
+    margin: 20px auto; /* Center the section */
+    margin-top: 190px;
+    position: relative;
+    background: #fbfbfb;
+    border-radius: 3px;
+    border: 1px solid #cbcbcb;
+    box-shadow: 0px 1px 2px rgba(0,0,0,0.09), inset 0px 0px 2px 2px rgba(255,255,255,0.5), inset 0 0 5px 5px rgba(255,255,255,0.4);
 }
 
-@media screen and (max-width: 1060px) {
-    .wrapper {
-        width: auto;
-        margin: 0 10px;
+@media screen and (max-width: 1200px) {
+    body, .wrapper, section {
         padding: 10px;
-    }
-
-    section {
-        max-width: 100%;
-        width: auto;
-        padding: 20px 10px;
-        margin: 100px auto 20px;
-    }
-
-    header, footer {
-        padding: 10px 20px;
+        max-width: 100%; /* Ensure it uses full width on smaller screens */
     }
 }
 
-@media screen and (max-width: 720px) {
-    body {
-        word-wrap: break-word;
-    }
-
-    header {
-        padding: 10px 20px;
-        margin: 0;
-    }
-
-    header h1 {
-        font-size: 28px;
-    }
-
-    section {
-        margin-top: 80px;
-        margin-bottom: 0;
-        width: auto;
-        padding: 10px;
-    }
-
-    header ul, header p.view {
-        position: static;
+@media screen and (max-width: 768px) {
+    body, .wrapper, section {
+        padding: 5px;
     }
 }
 
 @media screen and (max-width: 480px) {
+    body {
+        padding: 0;
+    }
+
     header {
-        position: relative;
-        padding: 5px 10px;
-        min-height: 0;
-    }
-
-    header h1 {
-        font-size: 24px;
-    }
-
-    section {
-        margin-top: 5px;
-        width: auto;
         padding: 10px;
     }
 
-    #banner {
-        display: none;
-    }
-
-    header ul {
-        display: none;
-    }
-}
-
-@media screen and (max-height: 680px) {
-    footer {
-        text-align: center;
-        margin: 20px auto;
-        position: relative;
-        left: auto;
-        bottom: auto;
-        width: auto;
+    section {
+        margin-top: 10px;
+        padding: 10px;
     }
 }
 
