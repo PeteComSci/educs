@@ -3,18 +3,39 @@
 
 @import "{{ site.theme }}";
 
+/* Ensure the body takes full width and is centered */
+body {
+    font: 14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #2b2b2b;
+    font-weight: 300;
+    margin: 0px;
+    padding: 0px 20px; /* Adjusted padding */
+    background: url(../images/body-background.png) #eae6d1;
+    max-width: 100%; /* Ensure full width */
+    box-sizing: border-box; /* Include padding in width calculation */
+}
+
+.wrapper {
+    width: 100%; /* Full width */
+    max-width: 1200px; /* Limit the max width */
+    margin: 0 auto; /* Center the wrapper */
+    position: relative;
+}
+
+/* Adjust the nav element */
 nav {
-    width: 20%; /* Adjusted width to a percentage for better responsiveness */
+    width: 20%; /* Adjusted width */
     position: fixed;
     top: 220px;
-    left: 10px; /* Changed left position to 10px for better alignment */
+    left: 10px; /* Aligned better */
     margin-left: 0; /* Removed negative margin */
     text-align: right;
 }
 
+/* Ensure the section element fills the space */
 section {
-    width: calc(100% - 40px); /* Adjusted to fill remaining space minus some padding */
-    padding: 30px 20px; /* Adjusted padding for better spacing */
+    width: calc(100% - 40px); /* Fill remaining space minus padding */
+    padding: 30px 20px; /* Adjusted padding */
     margin: 20px auto; /* Center the section */
     margin-top: 190px;
     position: relative;
@@ -24,10 +45,11 @@ section {
     box-shadow: 0px 1px 2px rgba(0,0,0,0.09), inset 0px 0px 2px 2px rgba(255,255,255,0.5), inset 0 0 5px 5px rgba(255,255,255,0.4);
 }
 
+/* Adjust the banner element */
 #banner {
     z-index: 100;
     left: 0;
-    right: 0; /* Changed right to 0 to fill the entire width */
+    right: 0; /* Fill entire width */
     height: 50px;
     margin: 0 auto; /* Center the banner */
     position: fixed;
@@ -39,19 +61,20 @@ section {
     padding: 0 10px; /* Adjusted padding */
 }
 
+/* Media queries for responsiveness */
 @media screen and (max-width: 1200px) {
     body, .wrapper, section {
         padding: 10px;
-        max-width: 100%; /* Ensure it uses full width on smaller screens */
+        max-width: 100%; /* Full width */
     }
 
     nav {
-        width: 25%; /* Adjusted width for smaller screens */
+        width: 25%; /* Adjusted width */
         left: 10px;
     }
 
     section {
-        width: calc(100% - 40px); /* Adjusted to fill remaining space minus some padding */
+        width: calc(100% - 40px); /* Fill remaining space */
     }
 }
 
@@ -61,11 +84,11 @@ section {
     }
 
     nav {
-        width: 30%; /* Adjusted width for smaller screens */
+        width: 30%; /* Adjusted width */
     }
 
     section {
-        width: calc(100% - 30px); /* Adjusted to fill remaining space minus some padding */
+        width: calc(100% - 30px); /* Fill remaining space */
     }
 }
 
@@ -81,7 +104,7 @@ section {
     section {
         margin-top: 10px;
         padding: 10px;
-        width: calc(100% - 20px); /* Adjusted to fill remaining space minus some padding */
+        width: calc(100% - 20px); /* Fill remaining space */
     }
 
     nav {
