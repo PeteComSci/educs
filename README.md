@@ -1,1 +1,3 @@
-# educs
+# EduCS.me
+
+Coming soon...
