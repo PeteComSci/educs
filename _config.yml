@@ -7,3 +7,13 @@ description: A comprehensive resource hub designed for computer science educator
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+navigation:
+     - name: "Home"
+       link: "/"
+     - name: "About"
+       link: "/about"
+     - name: "IA"
+       link: "/topics/IBCS/IA"
+     - name: "Contact"
+       link: "/contact"
