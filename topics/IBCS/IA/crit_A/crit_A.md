@@ -1,6 +1,6 @@
 ---
 title: "IA - Criterion A"
-permalink: /topics/IBCS/IA/
+permalink: /topics/IBCS/IA/crit_A/
 ---
 
 # Criterion A: Planning
