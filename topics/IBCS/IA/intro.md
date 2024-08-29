@@ -3,28 +3,28 @@ title: "IA Overview"
 permalink: /topics/IBCS/IA/
 ---
 
-# 📝 Internal Assessment (IA) Overview
+# Internal Assessment (IA) Overview
 
 Welcome to the **Internal Assessment (IA)** component of the IB Diploma Programme Computer Science course. This essential part of your studies provides an opportunity to apply your knowledge and skills to solve a real-world problem by developing a software solution. The IA is a significant project, accounting for a portion of your final grade, and it requires careful planning, execution, and reflection.
 
-## 🎯 Purpose and Objectives
+## Purpose and Objectives
 
 The IA is designed to:
 - **Demonstrate Your Skills:** Showcase your ability to analyze a problem, design a solution, and implement it effectively using appropriate tools and techniques.
 - **Solve Real-World Problems:** Engage with a real client to identify a genuine problem and develop a tailored solution.
 - **Document the Process:** Maintain comprehensive documentation throughout the project, ensuring that your design, development, and evaluation processes are clearly articulated.
 
-## 🕒 Time Commitment and Scope
+## Time Commitment and Scope
 
 - **30 hours** of class time is allocated for the IA.
 - Your final submission should include a maximum of **2,000 words** of documentation, excluding certain components like the appendix and code comments.
 - **Important:** Projects that are overly ambitious, such as full library systems or complex school timetabling systems, are beyond the scope of the IA and should be avoided. Focus on projects that are challenging yet manageable within the given time and resources.
 
-## 🧠 The Systems Development Life Cycle (SDLC)
+## The Systems Development Life Cycle (SDLC)
 
 Following the Systems Development Life Cycle (SDLC) is highly recommended. This structured approach will help you cover all necessary stages of your project, from planning to evaluation, ensuring that you do not overlook critical steps. Proper documentation at each stage will also support your ability to meet the assessment criteria effectively.
 
-## 🔍 Key Criteria and What to Focus On
+## Key Criteria and What to Focus On
 
 The IA is assessed against five key criteria, each of which has a dedicated page with detailed guidance. Here’s an overview of what each criterion involves:
 
@@ -53,13 +53,13 @@ The IA is assessed against five key criteria, each of which has a dedicated page
    - **Important:** Simply quoting client feedback is not enough; your evaluation must demonstrate your own critical assessment. Recommendations should go beyond trivial improvements like "adding more features."
    - **[Learn More](#link-to-criterion-e-page)**
 
-## 📂 Submission Guidelines
+## Submission Guidelines
 
 - **Complete and Accurate Submission:** Ensure that all required documents are included in your submission. Missing or incomplete submissions may negatively impact your score, and linked components (such as external links to products or videos) will be ignored.
 - **Video Demonstration:** Limit your video to 7 minutes, focusing solely on demonstrating the functionality of your solution. Do not include code explanations or extensibility features in the video.
 - **Double-Check Before Submission:** After uploading your sample to IBIS, double-check to ensure all components are present and not corrupted. Moderators will not follow up on missing elements.
 
-## 🏆 Keys to Success
+## Keys to Success
 
 - **Engage with a Real Client:** Projects that solve real problems for real clients tend to perform better. Ensure your project is grounded in genuine needs.
 - **Focus on Specific and Measurable Success Criteria:** Strong CfS are crucial to the success of your IA. They guide your development process and are central to your evaluation.
