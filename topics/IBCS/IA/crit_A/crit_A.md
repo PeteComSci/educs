@@ -43,12 +43,79 @@ Success criteria are the benchmarks that define what your solution must achieve 
 - **Developing Strong Criteria:** Create a list of 5 to 7 specific, measurable success criteria that fully describe a functional solution. These should cover all essential aspects of your solution.
 - **Link to Client Needs:** Ensure each criterion is directly linked to the client’s needs as identified in the scenario. The criteria should be realistic and achievable within the project’s scope.
 
+---
+
+> [!IMPORTANT]
+> Click below for more information
+
+
+<details>
+  <summary>🎯 Creating Measurable and Testable Success Criteria</summary>
+Success criteria are essential benchmarks that define what your solution must achieve to be considered successful. These criteria should be clear, specific, and easy to test, providing a solid foundation for the development and evaluation of your product.
+
+#### **1. What Makes a Good Success Criterion?**
+
+A strong success criterion is:
+- **Specific:** It clearly defines what the solution must accomplish.
+- **Measurable:** It includes a concrete way to verify that the criterion has been met.
+- **Achievable:** It is realistic within the project's scope, considering your skills, time, and resources.
+- **Relevant:** It directly relates to solving the client's problem.
+- **Testable:** It can be easily tested without ambiguity or uncertainty.
+
+#### **2. How to Write Success Criteria**
+
+**Step 1: Identify Key Functionalities**
+- Start by listing the core functionalities your solution must provide to address the client’s problem. These should directly relate to the needs identified in your scenario.
+
 **Example:**  
-1. The system must automatically update inventory levels in real-time with an accuracy rate of 99%.
-2. The user interface must allow new users to be trained within 2 hours, with minimal external assistance.
-3. The system should generate monthly inventory reports in PDF format, exportable via email.
-4. The application must be accessible via any web browser on both desktop and mobile devices.
-5. The system must handle up to 10,000 inventory items without performance degradation.
+If your client needs a way to manage inventory, a key functionality might be: "The system must allow users to add, edit, and delete inventory items through a user-friendly interface."
+
+**Step 2: Make It Measurable and Testable**
+- Ensure each criterion can be easily tested with clear pass/fail results. Avoid vague metrics like "improves efficiency" or percentages that may be hard to measure precisely.
+
+**Example:**  
+"The system must allow users to generate a report of all inventory items, categorized by product type, with a single click."
+
+**Step 3: Ensure It’s Achievable and Relevant**
+- Review each criterion to ensure it is something you can realistically achieve within the project’s scope and that it directly addresses the client’s needs.
+
+**Example:**  
+"The system should automatically save any changes to inventory items without requiring a page refresh."
+
+**Step 4: Use Concrete Actions**
+- Frame your criteria in terms of concrete actions that the system will perform. This makes them easier to test and less open to interpretation.
+
+**Example:**  
+"Users must be able to reset their passwords by receiving a link via email, which leads them to a secure reset page."
+
+#### **3. Linking Success Criteria to Your Test Plan**
+
+Each success criterion should have a corresponding test in your test plan. This ensures that you have a clear method for verifying that your solution meets all the criteria.
+
+**How to Do This:**
+- **Create a Test Case for Each Criterion:** For each success criterion, design a test case that specifies the input, expected outcome, and how you will measure the result.
+- **Document Your Tests:** In Criterion B and C, you will detail these tests and their outcomes. Keep track of your progress as you develop your solution, ensuring that each feature is tested against the relevant success criterion.
+
+**Example Test Plan Entry:**
+
+| Test Number | Success Criterion (Related Number)  | Input                                     | Expected Outcome                                   | Actual Outcome | Figure No. |
+|-------------|-------------------------------------|-------------------------------------------|---------------------------------------------------|----------------|------------|
+| 1           | 1. Add Inventory Item               | Input details for a new item: name, type, | New item appears in the inventory list immediately | Passed         | Fig. 1.1   |
+|             |                                     | quantity                                  |                                                   |                |            |
+| 2           | 2. Generate Inventory Report        | Click "Generate Report" button            | Report PDF downloads with all items categorized    | Passed         | Fig. 1.2   |
+| 3           | 3. Password Reset Functionality     | Submit email on reset page                | Password reset link is sent to the user’s email    | Passed         | Fig. 1.3   |
+
+
+#### **4. Monitoring and Adjusting Success Criteria**
+
+As you develop your solution, revisit your success criteria regularly:
+- **Prototype Testing:** As you create prototypes, test them against your success criteria to ensure you’re on the right track.
+- **Adjustments:** If necessary, adjust your criteria as you gain more insight into the project’s complexity or receive feedback from your client.
+
+</details>
+
+---
+
 
 **Why It’s Important:**  
 Well-defined CfS are crucial because they guide your development process and are used to evaluate your solution in later stages (Criteria D and E). Inadequate or superficial CfS can lead to poor performance across multiple criteria.
