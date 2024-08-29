@@ -45,12 +45,8 @@ Success criteria are the benchmarks that define what your solution must achieve 
 
 ---
 
-> [!IMPORTANT]
-> Click below for more information
-
-
-<details>
-  <summary>🎯 Creating Measurable and Testable Success Criteria</summary>
+### 🎯 Creating Measurable and Testable Success Criteria
+  
 Success criteria are essential benchmarks that define what your solution must achieve to be considered successful. These criteria should be clear, specific, and easy to test, providing a solid foundation for the development and evaluation of your product.
 
 #### **1. What Makes a Good Success Criterion?**
@@ -111,8 +107,6 @@ Each success criterion should have a corresponding test in your test plan. This 
 As you develop your solution, revisit your success criteria regularly:
 - **Prototype Testing:** As you create prototypes, test them against your success criteria to ensure you’re on the right track.
 - **Adjustments:** If necessary, adjust your criteria as you gain more insight into the project’s complexity or receive feedback from your client.
-
-</details>
 
 ---
 
