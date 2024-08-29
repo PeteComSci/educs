@@ -31,7 +31,7 @@ The IA is assessed against five key criteria, each of which has a dedicated page
 ### 1. **Criterion A: Planning**
    - **What to Do:** Identify a real client with a genuine problem, engage in meaningful consultation, and create a well-justified rationale for your solution.
    - **Important:** Success Criteria (CfS) should be specific, measurable, and sufficient to fully describe a functional solution. Weak or superficial CfS can negatively impact your performance across multiple criteria.
-   - **[Learn More](#link-to-criterion-a-page)**
+   - **[Learn More](crit_A.md)**
 
 ### 2. **Criterion B: Solution Overview**
    - **What to Do:** Develop a comprehensive design overview, including structure charts, data flow diagrams, and detailed algorithms. Maintain a thorough Record of Tasks (RoT) that documents your project’s progress.
