@@ -1,8 +1,8 @@
-# 🌟 Welcome to the Computer Science Course!
+# Welcome to the Computer Science Course!
 
 This course is designed to ignite your curiosity and passion for technology, providing you with the skills and knowledge to thrive in the ever-evolving field of computer science. Whether you're a student eager to dive into computer science and programming or a curious learner exploring the world of technology, you're in the right place!
 
-## 🎯 Course Objectives
+## Course Objectives
 
 By the end of this course, you will:
 
@@ -12,7 +12,7 @@ By the end of this course, you will:
 - **Embrace a Growth Mindset:** Focus on continuous improvement, learning from both successes and challenges.
 - **Collaborate and Lead:** Work effectively in teams, sharing your insights and learning from others.
 
-## 🛠️ Course Structure
+## Course Structure
 
 The course is organized into **seven interconnected layers** of a Computing System that will guide your learning journey:
 
@@ -24,7 +24,7 @@ The course is organized into **seven interconnected layers** of a Computing Syst
 6. **Communication Layer:** Exploring networking, internet technologies, and data exchange protocols.
 7. **Ethics and Implications:** Reflecting on the social and ethical implications of technology in our world.
 
-## 📚 What You Need to Succeed
+## What You Need to Succeed
 
 To thrive in this course, you'll need:
 
@@ -33,7 +33,7 @@ To thrive in this course, you'll need:
 - **Strong Work Ethic:** Stay committed to the process, valuing effort over perfection.
 - **Reflection:** Take time to reflect on your learning journey and set personal goals.
 
-## 💻 Tools and Resources
+## Tools and Resources
 
 We will be using a variety of tools and resources to enhance your learning experience:
 
@@ -41,7 +41,7 @@ We will be using a variety of tools and resources to enhance your learning exper
 - **CS50 Tools:** For code review, debugging, and improving coding practices.
 - **Microsoft Teams or Similar Tools:** For quick feedback, progress tracking, and classroom engagement.
 
-## 📅 Course Schedule
+## Course Schedule
 
 Our learning journey is structured around weekly themes, with each week focusing on a specific layer or topic. You can expect:
 
@@ -49,7 +49,7 @@ Our learning journey is structured around weekly themes, with each week focusing
 - **Project Work:** Real-world challenges that require applying what you've learned.
 - **Check-Ins:** Regular opportunities to reflect, ask questions, and receive feedback.
 
-## 🌱 Continuous Improvement and Growth
+## Continuous Improvement and Growth
 
 In this course, we believe that **"The person you are competing with is your past self."** Our goal is not to aim for perfection but to continually strive for improvement. You’ll be encouraged to:
 
@@ -57,7 +57,7 @@ In this course, we believe that **"The person you are competing with is your pas
 - **Reflect on Your Progress:** Use learning journals, peer reviews, and feedback sessions to grow.
 - **Help Others:** Remember, teaching and sharing what you’ve learned is one of the best ways to solidify your understanding.
 
-## 🎉 Ready to Begin?
+### Ready to Begin?
 
 We're excited to have you on this journey! Let's explore, create, and learn together in this exciting world of computer science. Remember, **learning is fun**, and we're here to support you every step of the way.
 
