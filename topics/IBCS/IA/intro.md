@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "IA Overview"
 permalink: /topics/IBCS/IA/
 ---
