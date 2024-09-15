@@ -49,7 +49,6 @@ If your project involves an inventory management system:
 **What It Is:**  
 The Record of Tasks (RoT) is a detailed log of all significant steps taken during the project, demonstrating the progression of the solution over time.
 
-**How to Maintain It:**
 - **Use the IB-Provided Form:** Use the official IB Record of Tasks form, ensuring it is consistently updated throughout the project.
 - **Include Around 50 Tasks:** A thorough RoT should include around 50 tasks, covering all stages of the Systems Development Life Cycle (SDLC):
   - **Planning and Research Stages:** Document initial research, client consultations, and decision-making processes.
@@ -62,9 +61,8 @@ The Record of Tasks (RoT) is a detailed log of all significant steps taken durin
 - **Interaction with Client:** Include evidence of at least 4 interactions or check-in sessions with the client throughout the SDLC. Document how client feedback informed the development of the solution.
 - **Time Estimates:** Include a "Time Estimated" column, filled in with the estimated number of days or weeks for each task.
 
-**Example RoT Entry:**
 
-<b>Criterion B: Record of Tasks (General Structure)</b>
+**Example RoT Entry: (General Structure)**
 
 ⚠️ **Warning:** This table provides a general structure for documenting the Record of Tasks (RoT) in your Internal Assessment. **Your work should be unique** and tailored to the specific development process of your product. Use this as a reference, but ensure your tasks reflect the distinct requirements and activities of your individual project.
 
@@ -133,7 +131,7 @@ Include an appendix entry summarizing the client feedback session on the initial
 
 ---
 
-### 5. **Avoiding Common Pitfalls**
+### **Avoiding Common Pitfalls**
 
 - **Superficial Designs:** Avoid submitting incomplete or generic designs. The designs should show detailed algorithmic thinking and the techniques to be used.
 - **Lack of Client Interaction:** Make sure to document all client interactions and incorporate their feedback into your design and development process.
@@ -141,7 +139,7 @@ Include an appendix entry summarizing the client feedback session on the initial
 
 ---
 
-### 6. **Presentation and Formatting**
+### **Presentation and Formatting**
 
 - **File Naming:** Save the document as "Crit_B.pdf".
 - **Clarity:** Use clear, labeled diagrams and well-organized tables to present your design, RoT, and Test Plan.
