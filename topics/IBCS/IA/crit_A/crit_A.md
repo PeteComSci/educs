@@ -145,7 +145,7 @@ During your consultation, if the client emphasized the need for real-time data u
 
 For more detailed information on the other criteria, please navigate to the corresponding pages:
 
-- **[Criterion B: Solution Overview](#link-to-criterion-b-page)**
+- **[Criterion B: Solution Overview](/topics/IBCS/IA/crit_B/)**
 - **[Criterion C: Development](#link-to-criterion-c-page)**
 - **[Criterion D: Functionality and Extensibility](#link-to-criterion-d-page)**
 - **[Criterion E: Evaluation](#link-to-criterion-e-page)**
