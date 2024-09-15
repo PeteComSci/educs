@@ -42,6 +42,8 @@ If your project involves an inventory management system:
 - **Flowcharts for Algorithms:** Detail the algorithm for sorting inventory items or handling stock updates.
 - **Pseudocode:** Provide pseudocode for the algorithm managing stock levels.
 
+---
+
 ### 2. **Record of Tasks (RoT)**
 
 **What It Is:**  
@@ -62,8 +64,7 @@ The Record of Tasks (RoT) is a detailed log of all significant steps taken durin
 
 **Example RoT Entry:**
 
-<details>
-<summary>📝 <b>Criterion B: Record of Tasks (General Structure)</b></summary>
+<b>Criterion B: Record of Tasks (General Structure)</b>
 
 ⚠️ **Warning:** This table provides a general structure for documenting the Record of Tasks (RoT) in your Internal Assessment. **Your work should be unique** and tailored to the specific development process of your product. Use this as a reference, but ensure your tasks reflect the distinct requirements and activities of your individual project.
 
@@ -91,7 +92,6 @@ The Record of Tasks (RoT) is a detailed log of all significant steps taken durin
 | 15          | Evaluate product against success criteria | Conduct a thorough evaluation of the product to determine if it meets all success criteria | __ days/weeks  | ____/____/____          | E         |
 | 16          | Recommend further development          | Based on evaluation and feedback, provide recommendations for further development of the product | __ days/weeks  | ____/____/____          | E         |
 
-</details>
 
 ---
 
@@ -117,6 +117,8 @@ The Test Plan is a detailed guide for testing your solution to ensure it meets t
 | 1           | 1. Add Inventory Item              | Test adding a new item to inventory.     | Name: "Laptop", Quantity: 10          | Item appears in the inventory list.                | Passed         | Fig. 1.1        |
 | 2           | 2. Generate Report                 | Test generating inventory report.        | Click "Generate Report" button        | Report PDF downloads and displays all items.      | Passed         | Fig. 2.1        |
 
+---
+
 ### 4. **Client Consultation Evidence**
 
 **What It Is:**  
@@ -129,11 +131,15 @@ Evidence of meaningful client interactions should be documented and included in 
 **Example:**  
 Include an appendix entry summarizing the client feedback session on the initial UI design and how it led to design adjustments.
 
+---
+
 ### 5. **Avoiding Common Pitfalls**
 
 - **Superficial Designs:** Avoid submitting incomplete or generic designs. The designs should show detailed algorithmic thinking and the techniques to be used.
 - **Lack of Client Interaction:** Make sure to document all client interactions and incorporate their feedback into your design and development process.
 - **Insufficient Test Plan:** Ensure that every success criterion has a corresponding test in the test plan.
+
+---
 
 ### 6. **Presentation and Formatting**
 
