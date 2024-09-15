@@ -66,6 +66,7 @@ The Record of Tasks (RoT) is a detailed log of all significant steps taken durin
 
 ⚠️ **Warning:** This table provides a general structure for documenting the Record of Tasks (RoT) in your Internal Assessment. **Your work should be unique** and tailored to the specific development process of your product. Use this as a reference, but ensure your tasks reflect the distinct requirements and activities of your individual project.
 
+
 | Task Number | Planned Action                         | Planned Outcome                                  | Time Estimated | Target Completion Date | Criterion |
 |-------------|----------------------------------------|-------------------------------------------------|----------------|------------------------|-----------|
 | **Planning**                                       |                                                  |                                                     |                |                        |           |
