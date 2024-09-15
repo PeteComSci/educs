@@ -22,6 +22,8 @@ The scenario is a detailed description of the problem your client is experiencin
 **Example:**  
 If your client is a small business owner struggling with managing inventory due to manual processes that lead to errors and lost sales, your scenario might describe the inefficiencies and challenges they face, setting the stage for your automated inventory management solution.
 
+---
+
 ### 2. **Rationale for the Solution**
 
 **What It Is:**  
@@ -33,6 +35,8 @@ The rationale explains why the solution you propose is the most effective way to
 
 **Example:**  
 If you choose a web-based application, justify it by explaining that the client needs remote access to the system, which a web application can provide. If you select Python for its data-handling capabilities, explain why these features are critical for your solution.
+
+---
 
 ### 3. **Criteria for Success (CfS)**
 
@@ -114,6 +118,8 @@ As you develop your solution, revisit your success criteria regularly:
 **Why It’s Important:**  
 Well-defined CfS are crucial because they guide your development process and are used to evaluate your solution in later stages (Criteria D and E). Inadequate or superficial CfS can lead to poor performance across multiple criteria.
 
+---
+
 ### 4. **Evidence of Consultation**
 
 **What It Is:**  
@@ -126,7 +132,9 @@ Meaningful consultation with your client (and advisor) is critical. This section
 **Example:**  
 During your consultation, if the client emphasized the need for real-time data updates due to frequent stock level changes, mention how this feedback led you to prioritize real-time inventory management in your success criteria.
 
-### 5. **Linking to Other Criteria**
+---
+
+### **Linking to Other Criteria**
 
 **Criterion A as the Foundation:**
 - **Criterion B (Design):** Your success criteria will inform your design process, guiding the development of your solution’s architecture.
@@ -134,7 +142,9 @@ During your consultation, if the client emphasized the need for real-time data u
 - **Criterion D (Functionality and Extensibility):** In Criterion D, you will demonstrate how your solution meets the success criteria through functional testing and client feedback.
 - **Criterion E (Evaluation):** Finally, in Criterion E, you will evaluate the effectiveness of your solution against the success criteria, incorporating client feedback to assess its success.
 
-### 6. **Presentation and Word Count**
+---
+
+### **Presentation and Word Count**
 
 - **Word Count:** Your write-up for Criterion A should be concise and to the point, with a recommended word count of fewer than 500 words (excluding the list of success criteria).
 - **Formatting:** Use a consistent and professional format. All documents should be converted to PDF format before submission, and your Criterion A file should be named "Crit_A_Planning.pdf".
