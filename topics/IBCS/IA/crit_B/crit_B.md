@@ -1,3 +1,8 @@
+---
+title: "IA - Criterion B"
+permalink: /topics/IBCS/IA/crit_B/
+---
+
 # Criterion B: Solution Overview
 
 Criterion B is the blueprint for your entire project. It involves creating a detailed design overview, maintaining a thorough Record of Tasks (RoT), and developing a comprehensive Test Plan. This criterion shows your ability to translate planning into a structured, functional design while keeping a clear record of your progress.
