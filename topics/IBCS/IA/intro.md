@@ -36,7 +36,7 @@ The IA is assessed against five key criteria, each of which has a dedicated page
 ### 2. **Criterion B: Solution Overview**
    - **What to Do:** Develop a comprehensive design overview, including structure charts, data flow diagrams, and detailed algorithms. Maintain a thorough Record of Tasks (RoT) that documents your project’s progress.
    - **Important:** Avoid the "fill in the boxes" approach. Your design documentation should demonstrate clear algorithmic thinking and be specific to your solution, not generic.
-   - **[Learn More](#link-to-criterion-b-page)**
+   - **[Learn More](/topics/IBCS/IA/crit_B/)**
 
 ### 3. **Criterion C: Development**
    - **What to Do:** Implement your solution, ensuring it demonstrates both complexity and ingenuity. Annotate your code excerpts to explain and justify the tools and techniques you used.
