@@ -41,7 +41,7 @@ The IA is assessed against five key criteria, each of which has a dedicated page
 ### 3. **Criterion C: Development**
    - **What to Do:** Implement your solution, ensuring it demonstrates both complexity and ingenuity. Annotate your code excerpts to explain and justify the tools and techniques you used.
    - **Important:** Projects should not just narrate what was done; they should provide detailed explanations supported by code annotations to achieve higher marks.
-   - **[Learn More](#link-to-criterion-c-page)**
+   - **[Learn More](/topics/IBCS/IA/crit_C/)**
 
 ### 4. **Criterion D: Functionality and Extensibility**
    - **What to Do:** Create a video demonstration of your product’s full functionality, ensuring you show persistence of data, comprehensive testing, and adherence to the CfS.
