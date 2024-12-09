@@ -46,12 +46,12 @@ The IA is assessed against five key criteria, each of which has a dedicated page
 ### 4. **Criterion D: Functionality and Extensibility**
    - **What to Do:** Create a video demonstration of your product’s full functionality, ensuring you show persistence of data, comprehensive testing, and adherence to the CfS.
    - **Important:** The video should be a maximum of 7 minutes, unsped, and focused only on demonstrating the solution’s functionality. Extensibility requires thorough documentation in your design and code comments.
-   - **[Learn More](#link-to-criterion-d-page)**
+   - **[Learn More](/topics/IBCS/IA/crit_D/)**
 
 ### 5. **Criterion E: Evaluation**
    - **What to Do:** Critically evaluate your solution against the CfS, incorporating meaningful client feedback. Propose realistic improvements based on issues identified during testing.
    - **Important:** Simply quoting client feedback is not enough; your evaluation must demonstrate your own critical assessment. Recommendations should go beyond trivial improvements like "adding more features."
-   - **[Learn More](#link-to-criterion-e-page)**
+   - **[Learn More](/topics/IBCS/IA/crit_E/)**
 
 ## Submission Guidelines
 
