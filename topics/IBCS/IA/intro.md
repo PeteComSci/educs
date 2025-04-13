@@ -20,6 +20,14 @@ The IA is designed to:
 - Your final submission should include a maximum of **2,000 words** of documentation, excluding certain components like the appendix and code comments.
 - **Important:** Projects that are overly ambitious, such as full library systems or complex school timetabling systems, are beyond the scope of the IA and should be avoided. Focus on projects that are challenging yet manageable within the given time and resources.
 
+## Guidelines and Requirements
+
+Before you begin your project, please take the time to review the **[Guidelines and Requirements](/topics/IBCS/IA/guidelines/)** document. This essential resource outlines the project purpose, evaluation criteria, recommended technical approaches, and key features your solution should include. It also emphasizes the importance of researching alternative approaches and providing a well-supported rationale for your chosen solution based on factors like integration, cost, complexity, and technical feasibility.
+
+By following these guidelines, you will ensure that your project is aligned with both client needs and academic expectations, helping you demonstrate your technical competence and problem-solving skills. Make sure your work reflects thorough research, thoughtful justification, and originality.
+
+**[Learn More](/topics/IBCS/IA/guidelines/)**
+
 ## The Systems Development Life Cycle (SDLC)
 
 Following the Systems Development Life Cycle (SDLC) is highly recommended. This structured approach will help you cover all necessary stages of your project, from planning to evaluation, ensuring that you do not overlook critical steps. Proper documentation at each stage will also support your ability to meet the assessment criteria effectively.
