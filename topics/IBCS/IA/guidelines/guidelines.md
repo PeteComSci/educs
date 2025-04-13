@@ -74,7 +74,7 @@ You are required to create proper citations for about 10 distinct sources within
 
 ## Suggestions for the Product
 
-### Core Project Example Features
+### Example Core Features
 
 - **Graphical User Interface (GUI) with Multiple Windows:** Develop an interface that supports several windows, each handling different functionalities and tasks.
 
