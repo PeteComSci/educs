@@ -110,8 +110,8 @@ You are required to create proper citations for about 10 distinct sources within
 - **Data Processing and Formatting Tool:** An application focused on intensive data processing, formatting, and reporting tasks with advanced file and database integration.
 - **Data Analysis and Simulation Platform:** A system for analyzing trends, simulating scenarios, and making predictions based on complex data aggregation.
 - **Interactive Turn-Based Strategy Game:**  
-  - A game that emphasizes deep logical mechanics over rich graphics.  
-    - Features may include complex attributes for units (e.g., powers, counter elements, strengths, and weaknesses), strategic gameplay involving dynamic decision-making, and the integration of algorithms (such as A* for movement or genetic algorithms for adaptive AI).
+  - A game that emphasizes deep logical mechanics over rich graphics.
+  - Features may include complex attributes for units (e.g., powers, counter elements, strengths, and weaknesses), strategic gameplay involving dynamic decision-making, and the integration of algorithms (such as A* for movement or genetic algorithms for adaptive AI).
 - **Library Management System:** A classic OOP project ideal for Java, featuring modules for managing books, members, loans, and returns, with functionalities such as file handling, sorting/searching, and a GUI interface.
 - **Financial or Hotel Reservation System:** Projects involving key aspects of OOP such as class inheritance (e.g., different account types, room categories), error handling, data management via files or databases, and complex business logic to simulate real-world processes.
 
