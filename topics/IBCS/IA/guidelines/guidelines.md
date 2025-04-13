@@ -72,7 +72,7 @@ You are required to create proper citations for about 10 distinct sources within
 
 ---
 
-## Requirements for the Project
+## Suggestions for the Product
 
 ### Core Project Example Features
 
