@@ -5,6 +5,8 @@ permalink: /topics/IBCS/IA/guidelines/
 
 # Internal Assessment Solution Guidelines and Requirements
 
+The project is designed to showcase your abilities in algorithmic thinking, technical design, and problem-solving by tackling real-world issues. It’s not just about programming—it’s about developing a comprehensive software solution that meets the actual needs of a client.
+
 **Real Client Interaction:**  
 You’re expected to work with a real person (e.g., a teacher, parent, or another adult). This collaboration is crucial because the client must clearly communicate their needs and later evaluate the solution, which introduces a practical element to your assessment.
 
@@ -49,6 +51,24 @@ After evaluating these points, provide a well-supported rationale explaining why
 - How the alternative approaches fell short in meeting your client’s requirements.
 - The advantages of your solution in terms of cost-effectiveness, usability, technical compatibility (or feasibility), and security.
 - The evidence and reasoning that support your chosen solution.
+
+---
+
+## Source Documentation and Citation
+
+To ensure originality and maintain academic integrity, it is essential that you keep a detailed record of all resources you use throughout your project. This includes, but is not limited to:
+
+- Published papers or articles on algorithms.
+- Video tutorials (e.g., from YouTube) and online courses.
+- Imported Java packages and libraries.
+- Code snippets, algorithms, or frameworks adopted from other sources.
+- Technical blogs, forum posts, or Stack Overflow discussions.
+- API documentation or software manuals.
+- Textbooks, white papers, or online articles.
+- Online sources and product reviews used to research and compare alternative solutions.
+
+You are required to create proper citations for about 10 distinct sources within your IA documentation, especially in the final section of Criterion C. Accurate attribution of sources is critical to demonstrating your research diligence and upholding academic integrity.
+
 
 ---
 
