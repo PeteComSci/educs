@@ -70,9 +70,9 @@ You are required to create proper citations for about 10 distinct sources within
 - **Graphical User Interface (GUI) with Multiple Windows:** Develop an interface that supports several windows, each handling different functionalities and tasks.
 - **File Import/Export:** Allow users to import and export data using text or CSV files through a file selector window for ease of use.
 - **Sorting Algorithms:** Integrate various sorting techniques to organize data effectively.
-- **Searching Capabilities:** Include both basic and advanced search functionalities to enable efficient data lookup.
+- **Searching/Filtering Capabilities:** Include both basic and advanced search/filter functionalities to enable efficient data lookup.
 - **Data Structures and Abstract Data Types (ADTs):**  
-  - Utilize arrays and ArrayLists for data storage.  
+  - Utilize arrays, 2D arrays, and ArrayLists for data storage.  
   - Incorporate advanced ADTs such as stacks, queues, binary trees, hashmaps, etc., to manage complex data sets.
 - **Error Handling:** Implement robust error handling mechanisms to gracefully manage exceptions and unexpected inputs.
 - **Usability Features:** Design user-friendly features that enhance overall usability, including clear instructions, responsive feedback, and accessibility considerations.
